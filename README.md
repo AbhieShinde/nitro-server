@@ -1,6 +1,6 @@
 # Nitro Minimal Starter
 
-Look at the [Nitro documentation](https://nitro.unjs.io/) to learn more.
+Look at the production endpoint [HERE](nitro-server-eta.vercel.app).
 
 ## Setup
 
@@ -38,5 +38,3 @@ Locally preview production build:
 ```bash
 npm run preview
 ```
-
-Check out the [deployment documentation](https://nitro.unjs.io/deploy) for more information.
