@@ -1,6 +1,6 @@
-# Nitro Minimal Starter
+# Nitro Minimal Sever
 
-Look at the production endpoint [HERE](nitro-server-eta.vercel.app).
+Look at the production endpoint [HERE](https://nitro-server-eta.vercel.app).
 
 ## Setup
 
